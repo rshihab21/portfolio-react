@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="footer-top-left">
           <img src={footer_logo} alt="" />
           <p>
-            I am a frontend developer from, USA with 10 years of experience in
+            I am a frontend developer from, BD with 10 years of experience in
             companies like Microsoft, Tesla and Apple.
           </p>
         </div>

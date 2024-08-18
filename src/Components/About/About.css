@@ -26,6 +26,9 @@
     display: flex;
     gap: 80px;
 }
+.about-left img {
+    border-radius: 5px;
+}
 .about-right {
     display: flex;
     flex-direction: column;

@@ -2,4 +2,4 @@
 
 ## Introduction
 
-This is simple Porfoio react website which is responsive and user frinedly
+This is simple Portfoio react website which is responsive and user frinedly
