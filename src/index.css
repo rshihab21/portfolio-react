@@ -9,3 +9,6 @@ body {
   color: #fff;
   font-family: "Outfit", sans-serif;
 }
+html.dark-mode {
+  --cursor-color: #fff
+}
